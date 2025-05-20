@@ -36,3 +36,5 @@ This project demonstrates a time-bound maze-solving game built using the OpenGL 
 - [OpenGL.org](https://www.opengl.org)
 - [LearnOpenGL.com](https://learnopengl.com)
 - [glprogramming.com](http://www.glprogramming.com)
+
+-----
